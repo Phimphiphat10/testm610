@@ -1,2 +1,2 @@
 หน้าปก<br>
-![คำอธิบายรูปภาพ](https://drive.google.com/file/d/1sLLHEzGSDMvUQiwmDNXaQfgDl3hvVlaj/view?usp=sharing)
+<embed width="100%" height="500px" src="https://drive.google.com/file/d/1sLLHEzGSDMvUQiwmDNXaQfgDl3hvVlaj/view?usp=sharing">
