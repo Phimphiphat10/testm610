@@ -1,2 +1,2 @@
 หน้าปก<br>
-https://drive.google.com/file/d/1sLLHEzGSDMvUQiwmDNXaQfgDl3hvVlaj/view?usp=drive_link
+![คำอธิบายรูปภาพ](https://drive.google.com/uc?export=view&id=/d/1sLLHEzGSDMvUQiwmDNXaQfgDl3hvVlaj/view?
